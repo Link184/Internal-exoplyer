@@ -2,6 +2,7 @@ Because exoplayer can be incompatible even between minor versions [link](https:/
 Flutter sdk also depend on ancient exo player version which will make impossible to include new versions of exoplayer on flutter app.
 This repo is an work around to avoid dependency conflict.
 
+Exoplayer actual version: 2.12.0
 ```gradle
 repositories {
     ...
