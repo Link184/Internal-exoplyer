@@ -1,0 +1,2 @@
+include ':exo-player-internal'
+rootProject.name = "InternalExoPlayer"
